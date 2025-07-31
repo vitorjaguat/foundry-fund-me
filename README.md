@@ -1,6 +1,6 @@
 # About
 
-FundMe is a crowd sourcing Solidity smart contract written in Solidity.
+FundMe is a crowdsourcing Solidity smart contract written in Solidity.
 
 #### About Foundry
 
